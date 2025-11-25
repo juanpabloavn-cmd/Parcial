@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\Juan.avendaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\Juan.avendaño.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\Juan.avendaño.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\Juan.avendaño.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\Juan.avendaño.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Estudiante\Desktop\Parcial\Juan.avendaño\obj\Debug\net9.0\Juan.avendaño.sourcelink.json
